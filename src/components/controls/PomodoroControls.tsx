@@ -42,7 +42,7 @@ export function PomodoroControls({
         onClick={takeLongBreak}
         color="bg-amber-400 text-gray-800"
         hover="hover:bg-amber-500"
-        text="Long"
+        text="Long break"
         icon={<BsBatteryCharging />}
       />
     </div>
