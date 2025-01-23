@@ -1,10 +1,10 @@
 
 
 
-# Pomodoro Timer
+# Pomodoro Productivity PP
 
 ## Project Description
-This **React Pomodoro Timer** is designed to help boost productivity by following the **25/5 Pomodoro** technique. Built with **Vite** for fast development, **Tailwind CSS** for responsive design, and **TypeScript** for type safety, this application provides customizable timer settings and sound alerts to manage work-rest intervals efficiently.
+This **react Pomodoro Productivity Timer** is designed to help boost productivity by following the **25/5 Pomodoro** technique. Built with **Vite** for fast development, **Tailwind CSS** for responsive design, and **TypeScript** for type safety, this application provides customizable timer settings and sound alerts to manage work-rest intervals efficiently.
 
 ![Showcase](./showcase.png)
 
